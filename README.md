@@ -1,2 +1,2 @@
 # 325Discordbot
-Private repo of 325Discordbot
+Public repo for PR1
