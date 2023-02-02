@@ -1,5 +1,4 @@
-# 325Discordbot
-## Public repo for PR1
+# 325Discordbot - Public repo for PR1
 
 ## The Report
 Currently there is no difference between our last iteration since this is our starting point.
